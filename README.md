@@ -1,4 +1,4 @@
-# <img alt="img.png" height="25" src="./README/logo.png" width="25"/> Emotion Detection System
+# <img alt="img.png" height="25" src="./README/logo.png" width="25"/> Emotion Recognition System
 <img alt="h1.png" height="18" src="./README/h1.png" />
 
 ## ★界面介绍  
