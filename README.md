@@ -9,6 +9,17 @@
 - `index_1.jsp`人脸识别界面
 - `index_2_FV.jsp`人脸识别极速版  
 
+## ★界面演示  
+
+主页  
+<img height="300" src="./README/index.png" />   
+注册登录界面  
+<img height="300" src="./README/register.png" /> <img height="300" src="./README/login.png" />  
+加载动画  
+<img height="300" src="./README/loading_models.png" />  
+实用界面与极速版  
+<img height="300" src="./README/home.png" /> <img height="300" src="./README/fast_version.png" /> 
+
 ## ★后端
 <img alt="java.png" height="150" src="./README/java.png" />  
 
